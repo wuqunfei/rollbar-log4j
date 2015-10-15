@@ -1,0 +1,5 @@
+/**
+ * @author
+ */
+public class RollbarAppender{
+}
