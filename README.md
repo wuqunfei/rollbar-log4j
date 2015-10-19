@@ -18,25 +18,6 @@ Add this dependencies to your pom.xml. But firstly, git clone this project, mvn 
       <version>1.0</version>
     </dependency>
     
-  
-###### further dependencies
-
-    <dependency>
-      <groupId>log4j</groupId>
-      <artifactId>log4j</artifactId>
-      <version>1.2.17</version>
-    </dependency>
-    <dependency>
-      <groupId>javax.servlet</groupId>
-      <artifactId>javax.servlet-api</artifactId>
-      <version>2.5</version>
-    </dependency>
-    <dependency>
-      <groupId>org.json</groupId>
-      <artifactId>json</artifactId>
-      <version>20140107</version>
-    </dependency>
-    
 ###### log4j config
 
         <?xml version="1.0" encoding="UTF-8" ?>
