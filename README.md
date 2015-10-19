@@ -8,15 +8,16 @@ The library is inspired by [rollbar-java] (https://github.com/rafael-munoz/rollb
 
 setup
 =============
-Add this dependencies to your pom.xml
+Add this dependencies to your pom.xml. But firstly, git clone this project, mvn clean & install on your local machine.
 
 ###### log4j appender 
-
+    
     <dependency>
       <groupId>com.github.rollbar.log4j</groupId>
       <artifactId>appender</artifactId>
       <version>1.0</version>
     </dependency>
+    
   
 ###### further dependencies
 
@@ -28,7 +29,7 @@ Add this dependencies to your pom.xml
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>javax.servlet-api</artifactId>
-      <version>3.1.0</version>
+      <version>2.5</version>
     </dependency>
     <dependency>
       <groupId>org.json</groupId>
