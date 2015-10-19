@@ -2,7 +2,7 @@ rollbar-log4j
 =============
 This is a library for rollbar and log4j to integrate Java apps with [Rollbar](https://rollbar.com/), the error aggregation service. You will need a Rollbar account: sign up for an account [here](https://rollbar.com/signup/).
 
-The library is inspired by [rollbar-java] (https://github.com/rafael-munoz/rollbar-java) by Rafael Munoz & Qunfei and
+The library is inspired by [rollbar-java] (https://github.com/rafael-munoz/rollbar-java) by Rafael Munoz and
 [rollbar-maven] (https://github.com/borjafpa/rollbar-maven) by Borja Pernia
 
 
